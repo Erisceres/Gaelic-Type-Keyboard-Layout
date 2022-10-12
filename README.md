@@ -18,93 +18,93 @@ When updating the keyboard layout with a new version, follow the reinstallation 
 
 Keyboard Features:
 
-AltGr + a -> á
-AltGr + e -> é
-AltGr + i -> í
-AltGr + o -> ó
-AltGr + u -> ú
-AltGr + A -> Á
-AltGr + E -> É
-AltGr + I -> Í
-AltGr + O -> Ó
-AltGr + U -> Ú
-AltGr + w -> æ
-AltGr + W -> Æ
-AltGr + y -> œ
-AltGr + Y -> Œ
-AltGr + b -> ḃ
-AltGr + c -> ċ
-AltGr + d -> ḋ
-AltGr + f -> ḟ
-AltGr + g -> ġ
-AltGr + m -> ṁ
-AltGr + p -> ṗ
-AltGr + s -> ṡ
-AltGr + t -> ṫ
-AltGr + n -> ṅ
-AltGr + b -> ḃ
-AltGr + C -> Ċ
-AltGr + D -> Ḋ
-AltGr + F -> Ḟ
-AltGr + G -> Ġ
-AltGr + M -> Ṁ
-AltGr + P -> Ṗ
-AltGr + S -> Ṡ
-AltGr + T -> Ṫ
-AltGr + N -> Ṅ
-AltGr + 4 -> €
-AltGr + 7 -> ⁊
-AltGr + - -> ·
+AltGr + a -> á\
+AltGr + e -> é\
+AltGr + i -> í\
+AltGr + o -> ó\
+AltGr + u -> ú\
+AltGr + A -> Á\
+AltGr + E -> É\
+AltGr + I -> Í\
+AltGr + O -> Ó\
+AltGr + U -> Ú\
+AltGr + w -> æ\
+AltGr + W -> Æ\
+AltGr + y -> œ\
+AltGr + Y -> Œ\
+AltGr + b -> ḃ\
+AltGr + c -> ċ\
+AltGr + d -> ḋ\
+AltGr + f -> ḟ\
+AltGr + g -> ġ\
+AltGr + m -> ṁ\
+AltGr + p -> ṗ\
+AltGr + s -> ṡ\
+AltGr + t -> ṫ\
+AltGr + n -> ṅ\
+AltGr + b -> ḃ\
+AltGr + C -> Ċ\
+AltGr + D -> Ḋ\
+AltGr + F -> Ḟ\
+AltGr + G -> Ġ\
+AltGr + M -> Ṁ\
+AltGr + P -> Ṗ\
+AltGr + S -> Ṡ\
+AltGr + T -> Ṫ\
+AltGr + N -> Ṅ\
+AltGr + 4 -> €\
+AltGr + 7 -> ⁊\
+AltGr + - -> ·\
 AltGr + # -> ʹ
 
 Deadkey: AltGr + ; = ¨
 
-¨ + a -> ä
-¨ + e -> ë
-¨ + u -> ü
-¨ + i -> ï
-¨ + o -> ö
-¨ + A -> Ä
-¨ + E -> Ë
-¨ + U -> Ü
-¨ + I -> Ï
-¨ + O -> Ö
-¨ + ¦ -> combining ¨
+¨ + a -> ä\
+¨ + e -> ë\
+¨ + u -> ü\
+¨ + i -> ï\
+¨ + o -> ö\
+¨ + A -> Ä\
+¨ + E -> Ë\
+¨ + U -> Ü\
+¨ + I -> Ï\
+¨ + O -> Ö\
+¨ + ¦ -> combining ¨\
 ¨ +   -> ¨
 
 Deadkey: AltGr + ' = ´
 
-´ + a -> á
-´ + e -> é
-´ + u -> ú
-´ + i -> í
-´ + y -> ý
-´ + o -> ó
-´ + A -> Á
-´ + E -> É
-´ + U -> Ú
-´ + I -> Í
-´ + Y -> Ý
-´ + O -> Ó
-´ + ¦ -> combining ´
+´ + a -> á\
+´ + e -> é\
+´ + u -> ú\
+´ + i -> í\
+´ + y -> ý\
+´ + o -> ó\
+´ + A -> Á\
+´ + E -> É\
+´ + U -> Ú\
+´ + I -> Í\
+´ + Y -> Ý\
+´ + O -> Ó\
+´ + ¦ -> combining ´\
 ´ +   -> ´
 
 Deadkey: `
 
-` + a -> à
-` + e -> è
-` + u -> ù
-` + i -> ì
-` + o -> ò
-` + A -> À
-` + E -> È
-` + U -> Ù
-` + I -> Ì
-` + O -> Ò
-` + ¦ -> combining `
-` +   -> `
+\` + a -> à\
+\` + e -> è\
+\` + u -> ù\
+\` + i -> ì\
+\` + o -> ò\
+\` + A -> À\
+\` + E -> È\
+\` + U -> Ù\
+\` + I -> Ì\
+\` + O -> Ò\
+\` + ¦ -> combining \`\
+\` +   -> \`
 
 Deadkey: AltGr + . = ˙
 
-˙ + ¦ -> combining ˙
+˙ + ¦ -> combining ˙\
 ˙ +   -> ˙
