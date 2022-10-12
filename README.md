@@ -42,7 +42,7 @@ AltGr + p -> ṗ\
 AltGr + s -> ṡ\
 AltGr + t -> ṫ\
 AltGr + n -> ṅ\
-AltGr + b -> ḃ\
+AltGr + B -> Ḃ\
 AltGr + C -> Ċ\
 AltGr + D -> Ḋ\
 AltGr + F -> Ḟ\
