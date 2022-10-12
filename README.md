@@ -70,7 +70,7 @@ Deadkey: AltGr + ; = ¨
 ¨ + I -> Ï\
 ¨ + O -> Ö\
 ¨ + ¦ -> combining ¨\
-¨ +   -> ¨
+¨ + SPACE -> ¨
 
 Deadkey: AltGr + ' = ´
 
@@ -87,7 +87,7 @@ Deadkey: AltGr + ' = ´
 ´ + Y -> Ý\
 ´ + O -> Ó\
 ´ + ¦ -> combining ´\
-´ +   -> ´
+´ + SPACE -> ´
 
 Deadkey: `
 
@@ -102,9 +102,9 @@ Deadkey: `
 \` + I -> Ì\
 \` + O -> Ò\
 \` + ¦ -> combining \`\
-\` +   -> \`
+\` + SPACE -> \`
 
 Deadkey: AltGr + . = ˙
 
 ˙ + ¦ -> combining ˙\
-˙ +   -> ˙
+˙ + SPACE -> ˙
